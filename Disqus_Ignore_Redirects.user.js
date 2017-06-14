@@ -23,6 +23,8 @@
 // @include     https://disqus.com/embed/*
 // @version     1
 // @grant       none
+// @license     GPL-3.0+
+// @supportURL  https://github.com/aktai0/Disqus-Ignore-Redirects
 // ==/UserScript==
 
 // This is implemented as a click listener, so it works even on links in comments added after clicking "Load More Comments"
