@@ -10,4 +10,4 @@ Requires the browser extension Greasemonkey (or Tampermonkey for Chrome). Only t
 3. Click "Use Script From Keyboard" at bottom left.
 
 - Or -
-1. Install from Greasyfork: 
+1. Install from Greasyfork:  
