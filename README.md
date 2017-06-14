@@ -1,5 +1,5 @@
 # Disqus-Ignore-Redirects
-This is a Greasemoneky user script to prevent URLs on embeded Disqus discussions from redirecting.
+This is a Greasemoneky user script to prevent URLs on embedded Disqus discussions from redirecting.
 
 # Requirements
 Requires the browser extension Greasemonkey (or Tampermonkey for Chrome). Only tested on Firefox 50.0+.
