@@ -18,6 +18,7 @@
 
 // ==UserScript==
 // @name        Disqus Ignore Redirects
+// @description Prevent URLs on embedded Disqus discussions from redirecting.
 // @namespace   aktai
 // @include     https://disqus.com/embed/*
 // @version     1
